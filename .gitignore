@@ -1,0 +1,6 @@
+.env
+db.sqlite3
+SynapticSift/__pycache__
+base/__pycache__
+base/migrations
+static/CACHE
